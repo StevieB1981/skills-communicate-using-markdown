@@ -2,7 +2,7 @@
 ## I am new to Github 
 ### Hoping to have mastered GH at some point this Fall! 
 
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
